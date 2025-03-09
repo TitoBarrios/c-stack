@@ -1,36 +1,26 @@
-# Stack
+# Implementación de Pila (Stack) en C#
 
-implementing stack structure with c#.
+## Descripción 
 
-- Java Development Kit (JDK) 21 or higher.
-- [resources](resources) folder to run the JAR file.
-- Apache Maven 4.0.0 or higher to compile and run the source code.
+- Implementación de la estructura Pila(Stack) en C# usando el paradigma orientado a objetos, la pila es generica lo cual permite almacenar cualquier tipo de dato, Además, se incluye una **clase de prueba** que muestra el uso de la pila con datos de ejemplo.
 
-Note: The [resources](resources) folder and the JAR file must be located in the same folder.
+Se implementan las operaciones basicas de la pila:
 
-- JAR file
-  1. Download the JAR file and the [resources](resources) folder.
-  2. Make sure that those files are located in the same folder.
-  3. Open a terminal and navigate to the current folder.
-  4. Run the following command: java -jar --enable-preview number-order.jar
+- `push(T item)`: Agrega un elemento a la pila.
+- `pop()`: Elimina y devuelve el elemento en la cima de la pila.
+- `peek()`: Devuelve el elemento en la cima sin eliminarlo.
+- `isEmpty()`: Verifica si la pila está vacía.
 
-- Source code
-  1. Clone this repository in your local machine.
-  2. Open a terminal and navigate to the project's directory.
-  3. Compile the project using maven: mvn compile
-  4. Execute the project with java: java -cp target/classes co.edu.uptc.App
+## Requerimientos de Software
+
+- .NET SDK (versión 6.0 o superior). Link de descarga: https://dotnet.microsoft.com/download
+
+## Instrucciones de ejecución 
 
 
-The dependencies used on this project are the following:
 
-- PropCtrl: version 1.0
-
-The contributions are welcome, follow these steps:
-
-1. Create a fork of the project.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes and create a commit (`git commit -am 'Creates this new feature'`).
-4. Create a push to the branch (`git push origin feature/new-feature`).
-5. Open a pull request.
-
-This project is under the MIT license. Check the file [LICENSE](LICENSE) for more details.
+## Autores 
+ 
+ - Tito Alexander Barrios Rodriguez
+ - Laura Valentina Garzón León
+s
