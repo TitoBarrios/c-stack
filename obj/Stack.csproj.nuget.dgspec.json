@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tito Barrios\\Documents\\Proyectos\\c-stack\\Stack.csproj": {}
+    "c:\\Users\\Tito Barrios\\Documents\\Proyectos\\c-stack\\Stack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tito Barrios\\Documents\\Proyectos\\c-stack\\Stack.csproj": {
+    "c:\\Users\\Tito Barrios\\Documents\\Proyectos\\c-stack\\Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tito Barrios\\Documents\\Proyectos\\c-stack\\Stack.csproj",
+        "projectUniqueName": "c:\\Users\\Tito Barrios\\Documents\\Proyectos\\c-stack\\Stack.csproj",
         "projectName": "Stack",
-        "projectPath": "C:\\Users\\Tito Barrios\\Documents\\Proyectos\\c-stack\\Stack.csproj",
+        "projectPath": "c:\\Users\\Tito Barrios\\Documents\\Proyectos\\c-stack\\Stack.csproj",
         "packagesPath": "C:\\Users\\Tito Barrios\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tito Barrios\\Documents\\Proyectos\\c-stack\\obj\\",
+        "outputPath": "c:\\Users\\Tito Barrios\\Documents\\Proyectos\\c-stack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tito Barrios\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,15 @@
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\bin\Debug\net9.0\Stack.exe
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\bin\Debug\net9.0\Stack.deps.json
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\bin\Debug\net9.0\Stack.runtimeconfig.json
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\bin\Debug\net9.0\Stack.dll
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\bin\Debug\net9.0\Stack.pdb
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\obj\Debug\net9.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\obj\Debug\net9.0\Stack.AssemblyInfoInputs.cache
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\obj\Debug\net9.0\Stack.AssemblyInfo.cs
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\obj\Debug\net9.0\Stack.csproj.CoreCompileInputs.cache
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\obj\Debug\net9.0\Stack.sourcelink.json
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\obj\Debug\net9.0\Stack.dll
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\obj\Debug\net9.0\refint\Stack.dll
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\obj\Debug\net9.0\Stack.pdb
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\obj\Debug\net9.0\Stack.genruntimeconfig.cache
+c:\Users\Tito Barrios\Documents\Proyectos\c-stack\obj\Debug\net9.0\ref\Stack.dll
