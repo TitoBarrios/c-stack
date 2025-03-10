@@ -1,8 +1,9 @@
 namespace Stack.src.Models.Program;
 
-class Program {
+class Program
+{
     static void Main()
-    { 
+    {
         Console.WriteLine("Pila en C#\nEscribe el tamaño de la pila: ");
         int size = Convert.ToInt32(Console.ReadLine());
         Stack<int?> stack = new();
@@ -12,10 +13,10 @@ class Program {
             stack.Push(Convert.ToInt32(Console.ReadLine()));
         }
         Console.WriteLine("Elementos de la pila: ");
-        while(stack.Peek() != null) {
+        while (stack.Peek() != null)
+        {
             int? data = stack.Pop();
-            if(data != null)
-                Console.Write(stack.Peek() != null ? $" {data} ->" : $" {data}");
+            Console.Write(stack.Peek() != null ? $" {data} ->" : $" {data}");
         }
     }
 }
